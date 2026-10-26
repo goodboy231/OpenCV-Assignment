@@ -8,7 +8,7 @@ img[:] = (0, 255, 0)
 # 在图像上写入文字
 cv2.putText(
     img,
-    "Hello OpenCV!",
+    "Hello Robotics!",
     (20, 150),
     cv2.FONT_HERSHEY_SIMPLEX,
     0.8,
